@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeNavigator", "TreeNavigator\TreeNavigator.csproj", "{2903BC85-5FBB-4C8B-BBEA-7298E0F9CCCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2903BC85-5FBB-4C8B-BBEA-7298E0F9CCCE}.Debug|x86.ActiveCfg = Debug|x86
+		{2903BC85-5FBB-4C8B-BBEA-7298E0F9CCCE}.Debug|x86.Build.0 = Debug|x86
+		{2903BC85-5FBB-4C8B-BBEA-7298E0F9CCCE}.Release|x86.ActiveCfg = Release|x86
+		{2903BC85-5FBB-4C8B-BBEA-7298E0F9CCCE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {052646AA-F7D4-42FD-988F-5C562195A10F}
+	EndGlobalSection
+EndGlobal
